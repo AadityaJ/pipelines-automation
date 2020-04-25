@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8781a8b30a8567875837d44262bb32d8",
+    "revision": "915a00ddbc8e434c1d63165ab15f2972",
     "url": "/pipelines-automation/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pipelines-automation/static/css/3.06e71a99.chunk.css"
   },
   {
-    "revision": "091b4a6ebf925a538e56",
+    "revision": "4a2cbad30481d6bf3d11",
     "url": "/pipelines-automation/static/css/main.419b0b76.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pipelines-automation/static/js/6.753b2ea9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "091b4a6ebf925a538e56",
-    "url": "/pipelines-automation/static/js/main.10ea2b3f.chunk.js"
+    "revision": "4a2cbad30481d6bf3d11",
+    "url": "/pipelines-automation/static/js/main.e6221620.chunk.js"
   },
   {
     "revision": "05ca8f8ae799ea21ed33",
